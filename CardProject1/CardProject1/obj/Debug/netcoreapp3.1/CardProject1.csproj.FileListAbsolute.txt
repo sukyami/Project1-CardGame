@@ -1,0 +1,14 @@
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\obj\Debug\netcoreapp3.1\CardProject1.csproj.AssemblyReference.cache
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\obj\Debug\netcoreapp3.1\CardProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\obj\Debug\netcoreapp3.1\CardProject1.AssemblyInfoInputs.cache
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\obj\Debug\netcoreapp3.1\CardProject1.AssemblyInfo.cs
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\obj\Debug\netcoreapp3.1\CardProject1.csproj.CoreCompileInputs.cache
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\bin\Debug\netcoreapp3.1\CardProject1.exe
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\bin\Debug\netcoreapp3.1\CardProject1.deps.json
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\bin\Debug\netcoreapp3.1\CardProject1.runtimeconfig.json
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\bin\Debug\netcoreapp3.1\CardProject1.runtimeconfig.dev.json
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\bin\Debug\netcoreapp3.1\CardProject1.dll
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\bin\Debug\netcoreapp3.1\CardProject1.pdb
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\obj\Debug\netcoreapp3.1\CardProject1.dll
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\obj\Debug\netcoreapp3.1\CardProject1.pdb
+C:\Users\jsh15\source\repos\CardProject1\CardProject1\obj\Debug\netcoreapp3.1\CardProject1.genruntimeconfig.cache
